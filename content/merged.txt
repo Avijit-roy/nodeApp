@@ -1,0 +1,3 @@
+here is the merged content: 
+ It's the first file 
+ It's the second file
